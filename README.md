@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karen Tamarin</h1>
-<h3 align="center">Transformo datos en decisiones, y conversaciones en resultados...</h3>
+<h3 align="center">Desarrolladora con interés en el análisis de datos, automatización de procesos y aprendizaje automático. Disfruto trabajar en proyectos que combinan tecnología y soluciones concretas para las personas.
+
+Me adapto rápido, disfruto del trabajo colaborativo y siempre estoy explorando nuevas herramientas que potencien la eficiencia y la creatividad.
+
+Actualmente enfocada en Python, visualización de datos y herramientas no-code.</h3>
 
 - 🔭 I’m currently working on [Coderhouse](https://www.coderhouse.com/ar/?pipe_source=google&pipe_medium=cpc&pipe_campaign=0&gad_source=1&gad_campaignid=12058006243&gbraid=0AAAAACoxfTJJDHg7SSRj1ZISOhp0MOlb1&gclid=Cj0KCQjwu7TCBhCYARIsAM_S3NhK5-aWLfeEYHpJsjUsNjoR0Dqnn6u8eeMa8Mz4ZZQn7WIH2XTresEaAsxaEALw_wcB)
 
